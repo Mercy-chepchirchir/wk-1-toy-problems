@@ -22,6 +22,7 @@ def highest_consonant_value(s):
 
     return max_value
 
+
 #added an input string to run the code
 input_string = "valerie"
 result = highest_consonant_value(input_string)
