@@ -24,6 +24,6 @@ def highest_consonant_value(s):
 
 
 #added an input string to run the code
-input_string = "valerie"
+input_string = "mercy"
 result = highest_consonant_value(input_string)
 print(result) 
